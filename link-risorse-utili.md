@@ -19,3 +19,7 @@ in Windows:
 - crearvi un nuovo layout di tastiera e assegnare una combinazione di tasti per i "backticks" (esempio: ALTGR + ' )
 - fare copia incolla da una pagina che li ha già ;)
 - ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
