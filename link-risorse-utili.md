@@ -18,4 +18,11 @@ in Windows:
 - tenere premuto il tasto ALT e digitare 96 dal tastierino numerico
 - crearvi un nuovo layout di tastiera e assegnare una combinazione di tasti per i "backticks" (esempio: ALTGR + ' )
 - fare copia incolla da una pagina che li ha già ;)
+- ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
+- ecc ecc ecc
+=======
 - [test](https://github.com/lidiapellizzaro/qui-x-imparare/blob/patch-4/nuovacartella/nuovo2.md)
+
